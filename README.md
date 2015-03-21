@@ -1,6 +1,6 @@
 # styles-extract
 
->Extracts all styles which match a certain pattern. For example extract all rules that contain pixel values.
+>Extracts all rules which match a certain pattern. For example extract all rules that contain pixel values.
 
 #Overview
 
@@ -12,7 +12,7 @@ PHP is required. [Installation and Configuration](http://php.net/manual/en/insta
 
 Once it has been installed simply run this in your command line
 ``` 
-php styles-only-that-have.php
+php styles-extract.php
 ```
 #Expected result
 For example we want to grab all rules that have pixels values in the declarations 

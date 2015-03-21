@@ -15,6 +15,7 @@ Once it has been installed simply run this in your command line
 php styles-only-that-have.php
 ```
 #Expected result
+For example we want to grab all rules that have pixels values in the declarations 
 >Source: main.css
 ``` css
 .test {

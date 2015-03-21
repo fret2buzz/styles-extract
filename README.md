@@ -1,6 +1,6 @@
-# styles-only-that-have
+# styles-extract
 
->Grab all styles which match a certain pattern. For example grab all styles that have pixel values.
+>Extracts all styles which match a certain pattern. For example extract all rules that contain pixel values.
 
 #Overview
 
